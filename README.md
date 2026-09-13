@@ -4,7 +4,9 @@
 
 Welcome to my GitHub profile.
 
-This space is a growing collection of practical projects, networking studies, educational tools, experiments, and cybersecurity work.
+I'm an IT professional transitioning into **Networking and Cybersecurity**, with a strong focus on practical learning, infrastructure, Linux systems, network analysis and technical documentation.
+
+Currently building my technical profile through **CCNA studies, networking labs, Linux, cybersecurity fundamentals and hands-on projects**.
 
 My current focus is on building strong foundations in:
 
@@ -35,6 +37,9 @@ Networking utilities focused on subnetting and IP addressing.
 
 **[Subnetting Calculator Reference](https://github.com/alfredosan-eng/Casio-fx-991CW-Gu-a-Completa-de-Subnetting)**  
 Practical subnetting reference and calculator workflow.
+
+**[T-568A & T-568B — RJ45 Ethernet Pinout](https://github.com/alfredosan-eng/T-568A-y-T-568B-RJ45-Ethernet-Pinout)**
+Technical reference for Ethernet cabling, RJ45 pinout, twisted pairs, TX/RX, straight-through and crossover cables.
 
 ### 📡 Wireless & Network Experiments
 
@@ -96,3 +101,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📫 Connect With Me
+💼 LinkedIn: https://www.linkedin.com/in/alfredo-sandoval-garc%C3%ADa-625508178/
+🐙 GitHub: alfredosan-eng
