@@ -72,7 +72,6 @@ Hands-on experiments designed to move from theory to practical networking.
 
 Current and future work includes:
 
-```text
 ARP
 DNS
 DHCP
@@ -87,20 +86,7 @@ MTU
 IPv4 Fragmentation
 Wireshark
 Packet Analysis
-<!--
-**alfredosan-eng/alfredosan-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 📫 Connect With Me
+
 💼 LinkedIn: https://www.linkedin.com/in/alfredo-sandoval-garc%C3%ADa-625508178/
-🐙 GitHub: alfredosan-eng
