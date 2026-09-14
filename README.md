@@ -35,7 +35,7 @@ Interactive IPv4 / IPv6 addressing, CIDR and subnetting visualization tool.
 **[Subnetting Tools](https://github.com/alfredosan-eng/Subnetting-Tools)**  
 Networking utilities focused on subnetting and IP addressing.
 
-**[Subnetting Calculator Reference](https://github.com/alfredosan-eng/Casio-fx-991CW-Gu-a-Completa-de-Subnetting)**  
+**[Casio fx-991CW — Guía Completa de Subnetting](https://github.com/alfredosan-eng/Casio-fx-991CW-Gu-a-Completa-de-Subnetting)**  
 Practical subnetting reference and calculator workflow.
 
 **[T-568A & T-568B — RJ45 Ethernet Pinout](https://github.com/alfredosan-eng/T-568A-y-T-568B-RJ45-Ethernet-Pinout)**
